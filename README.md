@@ -11,6 +11,8 @@
 - ✅ Téléchargement automatique depuis les sources officielles 🔄
 - ✅ Installation silencieuse des packages ⚙️
 
+![Screen](https://i.imgur.com/Db2d60Q.png)
+
 ## 🚀 Fonctionnalités
 
 - 🔍 Détection automatique des packages déjà installés sur le système.
