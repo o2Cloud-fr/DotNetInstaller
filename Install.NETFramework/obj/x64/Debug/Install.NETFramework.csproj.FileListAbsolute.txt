@@ -1,0 +1,8 @@
+C:\Users\MyAlien\source\repos\Install.NETFramework\Install.NETFramework\bin\x64\Debug\Install.NETFramework.exe.config
+C:\Users\MyAlien\source\repos\Install.NETFramework\Install.NETFramework\bin\x64\Debug\Install.NETFramework.exe
+C:\Users\MyAlien\source\repos\Install.NETFramework\Install.NETFramework\bin\x64\Debug\Install.NETFramework.pdb
+C:\Users\MyAlien\source\repos\Install.NETFramework\Install.NETFramework\obj\x64\Debug\Install.NETFramework.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\Install.NETFramework\Install.NETFramework\obj\x64\Debug\Install.NETFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\Install.NETFramework\Install.NETFramework\obj\x64\Debug\Install.NETFramework.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\Install.NETFramework\Install.NETFramework\obj\x64\Debug\Install.NETFramework.exe
+C:\Users\MyAlien\source\repos\Install.NETFramework\Install.NETFramework\obj\x64\Debug\Install.NETFramework.pdb

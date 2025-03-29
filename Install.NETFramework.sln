@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Install.NETFramework", "Install.NETFramework\Install.NETFramework.csproj", "{6EFD27AE-EB15-4303-9C07-92746BCB584E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EFD27AE-EB15-4303-9C07-92746BCB584E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFD27AE-EB15-4303-9C07-92746BCB584E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFD27AE-EB15-4303-9C07-92746BCB584E}.Debug|x64.ActiveCfg = Debug|x64
+		{6EFD27AE-EB15-4303-9C07-92746BCB584E}.Debug|x64.Build.0 = Debug|x64
+		{6EFD27AE-EB15-4303-9C07-92746BCB584E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFD27AE-EB15-4303-9C07-92746BCB584E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFD27AE-EB15-4303-9C07-92746BCB584E}.Release|x64.ActiveCfg = Release|x64
+		{6EFD27AE-EB15-4303-9C07-92746BCB584E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C82F6692-1441-40A9-BB56-05F48BDB51D0}
+	EndGlobalSection
+EndGlobal
