@@ -2,7 +2,7 @@
 
 **Installateur .NET Framework et C++ Redistributable** est une application 🖥️ Windows en C# conçue pour faciliter l'installation des différentes versions de 📦 .NET Framework et des 🔧 Visual C++ Redistributables. Elle permet d'identifier les ⚙️ composants déjà installés et de télécharger et installer automatiquement les versions 🔄 compatibles avec votre système Windows 10/11.
 
-![Screen](https://dotnetinstaller.o2cloud.fr.com/logo.svg)
+![Screen](https://dotnetinstaller.o2cloud.fr/logo.svg)
 
 - ✅ Détection automatique des packages déjà installés 🔍
 - ✅ Compatibilité Windows 10 et Windows 11 🏷️
